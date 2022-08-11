@@ -5,7 +5,7 @@
 
 - 👨‍💻 A portfolio of my projects can be found here! [jayjdoll.dev](jayjdoll.dev)
 
-- 📫 How to reach me **jayjdoll002@gmail.com**
+- 📫 Email me at **jayjdoll002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
