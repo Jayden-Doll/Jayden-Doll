@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **diving deep into React ⚛️!**
 
-- 👨‍💻 A portfolio of my projects can be found here! [jayjdoll.dev](https://jayjdoll.dev/)
+- 👨‍💻 A portfolio of my projects can be found here! [jaydendoll.dev](https://jaydendoll.dev/)
 
 - 📫 Email me at **jayjdoll002@gmail.com**
 
