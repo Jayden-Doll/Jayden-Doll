@@ -21,5 +21,3 @@
 HTML | CSS | JavaScript | ReactJS | NodeJS | Git | Sass | Styled Components | figma
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayden-doll&layout=compact)](https://github.com/jayden-doll/github-readme-stats)
