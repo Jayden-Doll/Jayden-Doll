@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jayden Doll</h1>
 <h3 align="center">A Front-End Developer!</h3>
 
-- 🌱 I’m currently **diving deep into ReactJS ⚛️!**
+- 🌱 I’m currently **diving deeper into ReactJS and NodeJS ⚛️!**
 
 - 👨‍💻 A portfolio of my projects can be found here! [jaydendoll.dev](https://jaydendoll.dev/)
 
